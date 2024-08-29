@@ -1,0 +1,1 @@
+print("f you cannot do great things, do small things in a great way")
